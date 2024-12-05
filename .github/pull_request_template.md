@@ -1,3 +1,5 @@
+## I have read the [CONTRIBUTING.md](https://github.com/SkappHQ/skapp-docs/blob/main/CONTRIBUTING.md) file - YES/NO
+
 ## PR checklist
 
 ### TaskId: [](https://github.com/SkappHQ/skapp-docs/issues)
