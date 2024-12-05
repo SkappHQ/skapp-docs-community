@@ -62,6 +62,9 @@ DB_USERNAME=your-db-user-name
 DB_PASSWORD=your-db-password
 SPRING_PROFILES_ACTIVE=non-prd
 RESET_DATABASE_API_KEY=random-string
+FILE_ENCRYPT_KEY=random-string
+SIGN_IN_KEY=random-string
+ENCRYPT_DECRYPT_SECRET=random-string
 ```
 
 The SPRING_PROFILES_ACTIVE environment variable is used to specify which profile should be active (eg:- dev, test, prod, qa). For development purpose make sure to set it as non-prod (our non-prod environments are dev, qa, and e2e).
