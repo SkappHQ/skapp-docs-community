@@ -40,7 +40,7 @@ First, clone the GitHub repository to your local machine:
 
 ```bash
 git clone https://github.com/SkappHQ/skapp-be
-cd Skapp-BE
+cd skapp-be
 ```
 
 ## 2. Database Setup
@@ -109,7 +109,7 @@ Start by cloning the project repository to your local machine:
 
 ```bash
 git clone https://github.com/SkappHQ/skapp-fe
-cd Skapp-FE
+cd skapp-fe
 ```
 
 ## 2. Install Dependencies
