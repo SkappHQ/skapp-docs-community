@@ -73,12 +73,12 @@ const config: Config = {
     },
     algolia: {
       // The application ID provided by Algolia
-      appId: 'YOUR_APP_ID',
+      appId: 'UD6X51OWIU',
 
       // Public API key: it is safe to commit it
-      apiKey: 'YOUR_SEARCH_API_KEY',
+      apiKey: 'e5aa8697f943783a0eb6b6dfa64208ca',
 
-      indexName: 'YOUR_INDEX_NAME',
+      indexName: 'skapp',
 
       // Optional: Algolia search parameters
       searchParameters: {},
