@@ -86,8 +86,8 @@ export default function Home(): JSX.Element {
 
   return (
     <Layout
-      title={`${siteConfig.title} - Your go-to platform for running everyday business`}
-      description="Your go-to platform for running your everyday business"
+      title={`${siteConfig.title} - ${siteConfig.tagline}`}
+      description="Connecting and optimizing your business processes with ease"
     >
       <HomepageHeader />
       <main>

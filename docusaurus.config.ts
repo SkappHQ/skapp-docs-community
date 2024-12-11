@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Skapp',
-  tagline: 'Your go-to platform for running your everyday business',
+  tagline: 'Connecting and optimizing your business processes with ease',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
