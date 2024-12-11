@@ -47,7 +47,7 @@ Holidays in **Skapp** are essential for accurate leave management and scheduling
 
 The **Holiday Bulk Upload** feature is **available exclusively when no holidays have been added for the selected year**.
 
-## :::
+:::
 
 ### Step 1: Download the CSV Template
 
