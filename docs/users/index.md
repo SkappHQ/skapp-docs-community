@@ -3,7 +3,7 @@ title: User Management
 id: user-management
 sidebar_label: User Management
 description: Learn how to manage users in Skapp, including adding new users, managing profiles, setting roles and permissions, terminating accounts, and ensuring efficient onboarding and secure data handling.
-image: ../../src/images/thumbnails/people/add-users-thumbnail.png
+image: /thumbnails/people/add-users-thumbnail.png
 keywords:
   [
     Skapp User Management,

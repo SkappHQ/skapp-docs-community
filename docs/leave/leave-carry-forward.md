@@ -4,7 +4,7 @@ id: leave-carry-forward
 sidebar_label: Leave Carry Forward
 sidebar_position: 5
 description: Learn how to manage leave carry forward in Skapp, allowing employees to transfer unused leave balances to the next cycle in accordance with company policies and predefined rules.
-image: ../../src/images/thumbnails/leave/leave-carry-forward-thumbnail.png
+image: /thumbnails/leave/leave-carry-forward-thumbnail.png
 keywords:
   [
     Skapp Leave Carry Forward,
@@ -36,7 +36,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage leave carry forawa
 
 :::
 
-![Carry Foraward Navigation](../../src/images/leave/leave-entitlements-navigation.png)
+![Carry Foraward Navigation](/leave/leave-entitlements-navigation.png)
 
 ---
 
@@ -46,7 +46,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage leave carry forawa
 
 1. Click the **Sync** button in the **Leave Carry Forward** section.
 
-![Carry Foraward Sync](../../src/images/leave/sync-button.png)
+![Carry Foraward Sync](/leave/sync-button.png)
 
 2. This begins the carry forward process for eligible leave balances.
 
@@ -59,7 +59,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage leave carry forawa
 - **Select All**: Use this option to select all available leave types with carry forward enabled.
 - At least one leave type must be selected to proceed.
 
-![Select Leave types](../../src/images/leave/select-leave-type.png)
+![Select Leave types](/leave/select-leave-type.png)
 
 2. Click **Continue** to move to the next step.
 
@@ -91,7 +91,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage leave carry forawa
 
 1. Click the **Sync** button on the **Carry Forwarding Balances** page.
 
-![Review and Sync](../../src/images/leave/review-and-sync.png)
+![Review and Sync](/leave/review-and-sync.png)
 
 2. Click **Confirm and Sync** to proceed with the synchronization.
 

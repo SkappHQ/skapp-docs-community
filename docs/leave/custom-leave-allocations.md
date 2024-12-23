@@ -4,7 +4,7 @@ id: custom-leave-allocations
 sidebar_label: Custom Leave Allocations
 sidebar_position: 3
 description: Learn how to manage custom leave allocations in Skapp, including granting additional leave days to employees, editing allocations, and aligning with organizational policies.
-image: ../../src/images/thumbnails/leave/leave-entitlements-thumbnail.png
+image: /thumbnails/leave/leave-entitlements-thumbnail.png
 keywords:
   [
     Skapp Custom Leave Allocations,
@@ -37,7 +37,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage custom allocations
 
 :::
 
-![Leave Entitlements Navigation](../../src/images/leave/leave-entitlements-navigation.png)
+![Leave Entitlements Navigation](/leave/leave-entitlements-navigation.png)
 
 ---
 
@@ -47,11 +47,11 @@ Users with the `Super Admin` & `Leave Admin` roles can manage custom allocations
 
 1. Click the **Add Custom Allocation** button in the **Custom Allocation** section.
 
-![Custom Allocation Add Button](../../src/images/leave/custom-allocation-add-button.png)
+![Custom Allocation Add Button](/leave/custom-allocation-add-button.png)
 
 ### Step 2: Fill in Allocation Details
 
-![Custom Allocation Details](../../src/images/leave/custom-allocation-details.png)
+![Custom Allocation Details](/leave/custom-allocation-details.png)
 
 #### 2.1 Employee Selection
 
@@ -82,7 +82,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage custom allocations
 
 - Click the **Save** button.
 
-![Custom Allocation Save](../../src/images/leave/custom-allocation-save.png)
+![Custom Allocation Save](/leave/custom-allocation-save.png)
 
 ---
 
@@ -92,7 +92,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage custom allocations
 
 - Click the **Edit** button next to the allocation you wish to modify in the custom allocation table.
 
-![Custom Allocation Edit](../../src/images/leave/custom-allocation-edit-button.png)
+![Custom Allocation Edit](/leave/custom-allocation-edit-button.png)
 
 ### Step 2: Modify Allocation Details
 
@@ -145,7 +145,7 @@ While editing the allocation you cannot reduce the allocation below the utilized
 
 1. Click the **Edit** button next to the allocation you wish to delete.
 
-![Custom Allocation Edit](../../src/images/leave/custom-allocation-edit-button.png)
+![Custom Allocation Edit](/leave/custom-allocation-edit-button.png)
 
 ### Step 2: Check Deletion Eligibility
 
@@ -156,6 +156,6 @@ While editing the allocation you cannot reduce the allocation below the utilized
 
 1. Click the **Delete Custom Allocation** button if enabled.
 
-![Custom Allocation Delete](../../src/images/leave/custom-allocation-delete.png)
+![Custom Allocation Delete](/leave/custom-allocation-delete.png)
 
 ---

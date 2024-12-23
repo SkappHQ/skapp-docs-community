@@ -4,7 +4,7 @@ id: timesheet
 sidebar_label: Timesheet
 sidebar_position: 2
 description: Learn how to use the Timesheets feature in Skapp to view and manage work hours, including accessing individual and organizational timesheets, monitoring attendance, and exporting data for analysis.
-image: ../../src/images/thumbnails/attendance/timesheets-thumbnail.png
+image: /thumbnails/attendance/timesheets-thumbnail.png
 keywords:
   [
     Skapp Timesheets,
@@ -36,14 +36,14 @@ The **Timesheets** feature provides users and administrators with the ability to
 
 - Access **Timesheet** directly from the main navigation bar.
 
-![Navigation path highlighting Timesheet option](../../src/images/attendance/navigation-timesheet.png)
+![Navigation path highlighting Timesheet option](/attendance/navigation-timesheet.png)
 
 **Users with "Super Admin","Attendance Admin or Attendance Manager" user roles**
 
 1. Navigate to the **Timesheet** submenu in the main navigation bar.
 2. Click on **My Timesheet**.
 
-![Navigation path highlighting My Timesheet option](../../src/images/attendance/navigation-my-timesheet.png)
+![Navigation path highlighting My Timesheet option](/attendance/navigation-my-timesheet.png)
 
 ---
 
@@ -57,7 +57,7 @@ At the top of the **My Timesheet** page, highlight cards provide summarized info
 2. **Break Hours**:
    Shows the total break hours taken during the selected period, including breaks on working days, non-working days, and leave days.
 
-![Highlight cards showing Total Work Hours and Break Hours](../../src/images/attendance/my-timesheet-highlight-cards.png)
+![Highlight cards showing Total Work Hours and Break Hours](/attendance/my-timesheet-highlight-cards.png)
 
 ---
 
@@ -83,7 +83,7 @@ The Daily Log section provides a detailed breakdown of each day's activities wit
   - **Break Hours**: Blue
   - **Manual Entry**: Yellow
 
-![Daily Log with Activity Bars](../../src/images/attendance/my-timesheet-daily-log.png)
+![Daily Log with Activity Bars](/attendance/my-timesheet-daily-log.png)
 
 :::info[Special Scenarios]
 
@@ -105,7 +105,7 @@ Users can adjust the displayed time period using the following filters:
 - **Month**
 - **Custom Range**
 
-![Date filter options on My Timesheet page](../../src/images/attendance/my-timesheet-filters.png)
+![Date filter options on My Timesheet page](/attendance/my-timesheet-filters.png)
 
 ---
 
@@ -124,7 +124,7 @@ Users can adjust the displayed time period using the following filters:
 1. Navigate to the **Timesheet** submenu in the main navigation bar.
 2. Click on **All Timesheets**.
 
-![Navigation path highlighting All Timesheet option](../../src/images/attendance/navigation-all-timesheets.png)
+![Navigation path highlighting All Timesheet option](/attendance/navigation-all-timesheets.png)
 
 ---
 
@@ -141,7 +141,7 @@ Users can adjust the displayed time period using the following filters:
    - **All Employees**: User can view timesheets for employees they supervise directly. This includes employees for whom they are designated as the Primary Supervisor, Secondary Supervisor, or Team Supervisor.
    - **Teams**: User can select teams that they manage to view timesheet data for employees within those teams.
 
-![Employee and Team filter options](../../src/images/attendance/all-timesheets-filters-employee-team.png)
+![Employee and Team filter options](/attendance/all-timesheets-filters-employee-team.png)
 
 ---
 
@@ -153,7 +153,7 @@ Highlight cards provide summarized information based on the selected filters
 
 2. **Break Hours**: Shows the total break hours taken during the selected date range, including breaks on working days, non-working days, holidays, and leave days for the selected employees.
 
-![Highlight cards showing Work Hours and Break Hours](../../src/images/attendance/all-timesheets-highlight-cards.png)
+![Highlight cards showing Work Hours and Break Hours](/attendance/all-timesheets-highlight-cards.png)
 
 ---
 
@@ -161,7 +161,7 @@ Highlight cards provide summarized information based on the selected filters
 
 Users can adjust the displayed data using the date filter given
 
-![Date filter options on All Timesheets page](../../src/images/attendance/all-timesheets-date-filter.png)
+![Date filter options on All Timesheets page](/attendance/all-timesheets-date-filter.png)
 
 ---
 
@@ -169,7 +169,7 @@ Users can adjust the displayed data using the date filter given
 
 The **Work Hours Table** presents detailed daily work hours for each selected employee within the selected date range.
 
-![Work Hours Table with Name column frozen](../../src/images/attendance/work-hours-table.png)
+![Work Hours Table with Name column frozen](/attendance/work-hours-table.png)
 
 1. **Worked Hours Display**:
 
@@ -179,7 +179,7 @@ The **Work Hours Table** presents detailed daily work hours for each selected em
 2. **Color Indicators**:
    - Insufficient hours are indicated with a red-colored chip.(If actual worked hours are less than the standard worked hours configured by the organization)
 
-![Examples of Worked Hours with icons and color indicators](../../src/images/attendance/work-hours-indicator.png)
+![Examples of Worked Hours with icons and color indicators](/attendance/work-hours-indicator.png)
 
 ---
 
@@ -189,4 +189,4 @@ Users can export timesheet data for further analysis or record-keeping.
 
 - Click the **Export CSV** button to download a CSV file containing the timesheet data for the selected date range and filters.
 
-![Export CSV button](../../src/images/attendance/work-hours-table-export.png)
+![Export CSV button](/attendance/work-hours-table-export.png)

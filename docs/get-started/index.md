@@ -7,7 +7,7 @@ sidebar_position: 2
 
 # Skapp-Simplifying Business Management
 
-![Skapp Banner ](../../src/images/thumbnails/common/skapp-banner.png)
+![Skapp Banner ](/thumbnails/common/skapp-banner.png)
 
 Skapp is an all-in-one business management platform designed to empower modern organizations by simplifying their operational complexities and fostering collaboration. Built with the belief that people are at the heart of every successful business, Skapp provides a centralized solution that eliminates inefficiencies caused by fragmented systems and siloed workflows.
 

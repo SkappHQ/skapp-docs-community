@@ -4,7 +4,7 @@ id: add-users
 sidebar_label: Add Users
 sidebar_position: 1
 description: Learn how to add, manage, and terminate users in Skapp, including configuring personal and employment details, setting system permissions, and ensuring accurate user data management.
-image: ../../src/images/thumbnails/people/add-users-thumbnail.png
+image: /thumbnails/people/add-users-thumbnail.png
 keywords:
   [
     Skapp Add Users,
@@ -38,7 +38,7 @@ This guide provides a comprehensive walkthrough for adding, managing, and termin
 1. Navigate to the **People** option in the main navigation bar.
 2. Click on the **Directory** sub-menu option.
 
-![Accessing Directory Page](../../src/images/people/directory-page.png)
+![Accessing Directory Page](/people/directory-page.png)
 
 ## Adding Users (Quick Add)
 
@@ -46,7 +46,7 @@ This guide provides a comprehensive walkthrough for adding, managing, and termin
 
 1. Click the **Add People** button to open the **Add People Modal**.
 
-![Add People Button](../../src/images/people/add-people-button.png)
+![Add People Button](/people/add-people-button.png)
 
 ---
 
@@ -54,14 +54,14 @@ This guide provides a comprehensive walkthrough for adding, managing, and termin
 
 1. Fill in the mandatory fields.
 
-![Add People Modal](../../src/images/people/add-people-modal.png)
+![Add People Modal](/people/add-people-modal.png)
 
 - **First Name** and **Last Name**: Required to identify the user in the system.
 - **Work Email**: This serves as the **unique identifier** and will be used as the **username** for logging into the system. Ensure the email is valid and not duplicated.
 
 2. Set user permissions
 
-![Set User Permissions](../../src/images/people/user-permissions.png)
+![Set User Permissions](/people/user-permissions.png)
 
 - Default role is **Employee** across all modules.
 - Selecting **Super Admin** automatically assigns admin permissions for all modules.
@@ -86,7 +86,7 @@ Check **[User Roles](user-roles-permissions)**
 
 1. Click **Copy Text** to copy the credentials for sharing with the user.
 
-![Share Credentials Modal](../../src/images/people/share-credentials-modal.png)
+![Share Credentials Modal](/people/share-credentials-modal.png)
 
 :::info
 
@@ -96,7 +96,7 @@ Click **Add Full Profile** to proceed to the add more details realted to the use
 
 ---
 
-![Add Full Profile Button](../../src/images/people/add-full-profile-button.png)
+![Add Full Profile Button](/people/add-full-profile-button.png)
 
 ## Adding Users with Full Profile
 
@@ -110,7 +110,7 @@ The full profile process consists of five sections:
 
 Users must complete each section in sequence and click **Next** to proceed to the next step.
 
-![Full Profile Steps](../../src/images/people/full-profile-steps.png)
+![Full Profile Steps](/people/full-profile-steps.png)
 
 ---
 
@@ -168,7 +168,7 @@ The **Employment Details** section records organizational and employement-specif
 
 #### Following fields need to be complete to add a career progression record.
 
-![Career Progression Section](../../src/images/people/career-progression-form.png)
+![Career Progression Section](/people/career-progression-form.png)
 
 1. **Employment Type**
 
@@ -210,14 +210,14 @@ The **Employment Details** section records organizational and employement-specif
    - Use the checkbox to mark the record as the employee's current role.
    - If selected, the end date field is disabled.
 
-![Current Career Progression Record](../../src/images/people/career-progression-current.png)
+![Current Career Progression Record](/people/career-progression-current.png)
 
 #### Adding a Career Progression Record
 
 1. Fill in all the required fields as described above.
 2. Click the **Add** button.
 
-![Career Progression Section Add Button](../../src/images/people/career-progression-form-add-button.png)
+![Career Progression Section Add Button](/people/career-progression-form-add-button.png)
 
 3. Upon successful addition:
    - The record is displayed in a table below the form.
@@ -230,13 +230,13 @@ The **Employment Details** section records organizational and employement-specif
 1. Locate the record in the table.
 2. Click the **Edit** button next to the desired record.
 
-![Career Progression Section Edit Button](../../src/images/people/career-progression-edit.png)
+![Career Progression Section Edit Button](/people/career-progression-edit.png)
 
 3. The record's details will populate the input fields.
 4. Modify the details as needed.
 5. Click **Save Changes** to update the record.
 
-![Career Progression Section Save Button](../../src/images/people/career-progression-save.png)
+![Career Progression Section Save Button](/people/career-progression-save.png)
 
 ---
 
@@ -246,7 +246,7 @@ The **Employment Details** section records organizational and employement-specif
 2. Click the **Delete** button next to the desired record.
 3. The record will be removed from the table.
 
-![Career Progression Section Delete Button](../../src/images/people/career-progression-delete.png)
+![Career Progression Section Delete Button](/people/career-progression-delete.png)
 
 ---
 
@@ -277,13 +277,13 @@ The **Entitlement Details** section allows administrators to assign leave entitl
 3. Specify the **Number of Days** allocated for the leave.
 4. Define the **Effective From** and **Expiration Date** for the entitlement.
 
-![Entitlement Details Section](../../src/images/people/entitlement-details.png)
+![Entitlement Details Section](/people/entitlement-details.png)
 
 #### Adding Multiple Entitlements
 
 - Click the **Add** button to save the entry.
 
-![Entitlement Details Section Add Button](../../src/images/people/entitlement-add.png)
+![Entitlement Details Section Add Button](/people/entitlement-add.png)
 
 - The entitlement appears in a table below the form.
 - Repeat the process to add multiple entitlements.
@@ -298,15 +298,15 @@ The **Entitlement Details** section allows administrators to assign leave entitl
 
 - Click the Edit icon next to an entitlement to modify details.
 
-![Entitlement Details Section Edit Button](../../src/images/people/entitlement-edit.png)
+![Entitlement Details Section Edit Button](/people/entitlement-edit.png)
 
 - Click on the save changes button when modifying is done.
 
-![Entitlement Details Section Save Button](../../src/images/people/entitlement-save.png)
+![Entitlement Details Section Save Button](/people/entitlement-save.png)
 
 - Click the Delete icon to remove the entitlement from the list.
 
-![Entitlement Details Section Delete Button](../../src/images/people/entitlement-delete.png)
+![Entitlement Details Section Delete Button](/people/entitlement-delete.png)
 
 ---
 
@@ -317,7 +317,7 @@ After completing all sections:
 1. Review the entered information.
 2. Click the **Save Profile** button to finalize the process.
 
-![Save Profile](../../src/images/people/save-profile.png)
+![Save Profile](/people/save-profile.png)
 
 3. The **Share Credentials Modal** appears with:
    - **Account URL**: The login page link.
@@ -330,4 +330,4 @@ After completing all sections:
 
 1. Click **Copy Text** to copy the credentials for sharing with the user.
 
-![Share Credentials](../../src/images/people/share-credentials-modal.png)
+![Share Credentials](/people/share-credentials-modal.png)

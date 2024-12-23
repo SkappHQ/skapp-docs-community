@@ -4,7 +4,7 @@ id: skapp-setup-guide
 sidebar_label: Skapp Setup Guide
 sidebar_position: 1
 description: Learn how to set up Skapp, the open-source business management platform, in less than 5 minutes with this step-by-step guide for both backend and frontend projects.
-image: ../../src/images/thumbnails/common/skapp-setup-guide-thumbnail.png
+image: /thumbnails/common/skapp-setup-guide-thumbnail.png
 keywords:
   [
     Skapp Setup Guide,

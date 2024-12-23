@@ -4,7 +4,7 @@ id: manage-leave-requests
 sidebar_label: Manage Leave Requests
 sidebar_position: 2
 description: Learn how to manage employee leave requests in Skapp, including reviewing details, approving or declining applications, and revoking approved leaves to ensure systematic leave management.
-image: ../../src/images/thumbnails/leave/approve-leave-requests-thumbnail.png
+image: /thumbnails/leave/approve-leave-requests-thumbnail.png
 keywords:
   [
     Skapp Leave Approval,
@@ -39,7 +39,7 @@ Users with the `Super Admin`,`Leave Admin` & `Leave Manager` roles can manage le
 
 :::
 
-![All Requests Navigation](../../src/images/leave/all-requests-navigation.png)
+![All Requests Navigation](/leave/all-requests-navigation.png)
 
 ---
 
@@ -50,14 +50,14 @@ Users with the `Super Admin`,`Leave Admin` & `Leave Manager` roles can manage le
 1. In the **Status** column, find requests marked as Pending.
 2. Click on the specific request you wish to approve.
 
-![Pending Requests](../../src/images/leave/all-requests-pending-request.png)
+![Pending Requests](/leave/all-requests-pending-request.png)
 
 ### Step 2: Approve the Request
 
 1. Review the details of the leave request in the modal.
 2. Click the **Approve Leave** button at the bottom of the modal.
 
-![Approve Requests](../../src/images/leave/approve-leave.png)
+![Approve Requests](/leave/approve-leave.png)
 
 ---
 
@@ -68,7 +68,7 @@ Users with the `Super Admin`,`Leave Admin` & `Leave Manager` roles can manage le
 1. In the **Status** column, find requests marked as Pending.
 2. Click on the specific request you wish to decline.
 
-![Pending Requests](../../src/images/leave/all-requests-pending-request.png)
+![Pending Requests](/leave/all-requests-pending-request.png)
 
 ### Step 2: Click on Decline the Request Button
 
@@ -80,7 +80,7 @@ Users with the `Super Admin`,`Leave Admin` & `Leave Manager` roles can manage le
 1. Enter a comment explaining the reason for declining the request.
 2. Click the **Decline Leave** button.
 
-![Decline Requests](../../src/images/leave/decline-leave.png)
+![Decline Requests](/leave/decline-leave.png)
 
 ---
 
@@ -91,14 +91,14 @@ Users with the `Super Admin`,`Leave Admin` & `Leave Manager` roles can manage le
 1. In the **Status** column, find requests marked as Approved.
 2. Click on the specific request you wish to revoke.
 
-![Approved Requests](../../src/images/leave/all-requests-approved-request.png)
+![Approved Requests](/leave/all-requests-approved-request.png)
 
 ### Step 2: Click on Revoke Request Button
 
 1. Review the details of the leave request in the modal.
 2. Click the **Revoke** button.
 
-![Revoke Requests](../../src/images/leave/revoke-leave.png)
+![Revoke Requests](/leave/revoke-leave.png)
 
 :::warning
 

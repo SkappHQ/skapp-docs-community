@@ -4,7 +4,7 @@ id: user-bulk-upload
 sidebar_label: User Bulk Upload
 sidebar_position: 2
 description: Learn how to use the User Bulk Upload feature in Skapp to efficiently add multiple users at once, streamline the onboarding process, and ensure data consistency.
-image: ../../src/images/thumbnails/people/add-users-thumbnail.png
+image: /thumbnails/people/add-users-thumbnail.png
 keywords:
   [
     Skapp User Bulk Upload,
@@ -38,7 +38,7 @@ The User Bulk Upload feature in Skapp simplifies the process of adding multiple 
 1. Navigate to the **People** option in the main navigation bar.
 2. Click on the **Directory** sub-menu option.
 
-![Accessing Directory Page](../../src/images/people/directory-page.png)
+![Accessing Directory Page](/people/directory-page.png)
 
 ---
 
@@ -46,13 +46,13 @@ The User Bulk Upload feature in Skapp simplifies the process of adding multiple 
 
 - Click on the bulk upload button in the directory page.
 
-![Bulk Upload Button on Directory Page](../../src/images/people/bulk-upload-button.png)
+![Bulk Upload Button on Directory Page](/people/bulk-upload-button.png)
 
 ## Step 2: Downloading the Template
 
 1. In the **Add People Modal**, click the **Download Template** button.
 
-![Download Template Button](../../src/images/people/download-template-button.png)
+![Download Template Button](/people/download-template-button.png)
 
 2. Save the template file to your device.
    - The template is provided in **CSV format**.
@@ -69,7 +69,7 @@ The User Bulk Upload feature in Skapp simplifies the process of adding multiple 
      - Last Name
      - Work email
 
-![CSV Template Example](../../src/images/people/csv-template-example.png)
+![CSV Template Example](/people/csv-template-example.png)
 
 :::danger[Important]
 
@@ -81,7 +81,7 @@ The User Bulk Upload feature in Skapp simplifies the process of adding multiple 
 
 2. **Save the completed file** in CSV format.
 
-![Save as CSV](../../src/images/people/save-as-csv.png)
+![Save as CSV](/people/save-as-csv.png)
 
 ---
 
@@ -91,7 +91,7 @@ The User Bulk Upload feature in Skapp simplifies the process of adding multiple 
 
 2. Drag and drop the completed CSV file into the upload area or click to browse and select the file.
 
-![Drag and Drop Upload Area](../../src/images/people/upload-csv-file.png)
+![Drag and Drop Upload Area](/people/upload-csv-file.png)
 
 ---
 

@@ -4,7 +4,7 @@ id: manual-time-entries
 sidebar_label: Manual Time Entries
 sidebar_position: 3
 description: Learn how to use the Manual Time Entry feature in Skapp to add or edit your work hours manually, correct missed clock-ins or clock-outs, and maintain accurate attendance records.
-image: ../../src/images/thumbnails/attendance/manual-time-entry-thumbnail.png
+image: /thumbnails/attendance/manual-time-entry-thumbnail.png
 keywords:
   [
     Skapp Manual Time Entry,
@@ -33,14 +33,14 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
 
 - Access **My Timesheet** directly from the main navigation bar.
 
-![Navigation path highlighting Timesheet option](../../src/images/attendance/navigation-timesheet.png)
+![Navigation path highlighting Timesheet option](/attendance/navigation-timesheet.png)
 
 **Users with "Super Admin","Attendance Admin or Attendance Manager" user roles**
 
 1. Navigate to the **Timesheet** submenu in the main navigation bar.
 2. Click on **My Timesheet**.
 
-![Navigation path highlighting My Timesheet option](../../src/images/attendance/navigation-my-timesheet.png)
+![Navigation path highlighting My Timesheet option](/attendance/navigation-my-timesheet.png)
 
 ---
 
@@ -50,7 +50,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
 
 - On the **My Timesheet** page, click the **Add Time Entry** button.
 
-![Add Time Entry button](../../src/images/attendance/add-time-entry-button.png)
+![Add Time Entry button](/attendance/add-time-entry-button.png)
 
 ---
 
@@ -71,7 +71,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
   - The calendar displays existing leave requests and company holidays.
   - Be cautious when selecting a date that falls on a leave day or holiday; the system will prompt you accordingly.
 
-![Date selection in Add Time Entry modal](../../src/images/attendance/add-time-entry-date-selection.png)
+![Date selection in Add Time Entry modal](/attendance/add-time-entry-date-selection.png)
 
 ---
 
@@ -93,7 +93,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
 - Use the clock component to select hours and minutes by dragging the pointer.
 - Choose between **AM** and **PM**; selected parts (hours, minutes, AM/PM) are highlighted for clarity.
 
-![Time selection for From and To Times](../../src/images/attendance/add-time-entry-time-selection.png)
+![Time selection for From and To Times](/attendance/add-time-entry-time-selection.png)
 
 ---
 
@@ -103,7 +103,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
 - This field is read-only and updates dynamically as you adjust the times.
 - Ensure that the **Worked Hours** accurately reflect the time you worked.
 
-![Worked Hours field displaying calculated hours](../../src/images/attendance/add-time-entry-worked-hours.png)
+![Worked Hours field displaying calculated hours](/attendance/add-time-entry-worked-hours.png)
 
 ---
 
@@ -117,7 +117,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
 
 :::
 
-![Save and Submit for Approval button](../../src/images/attendance/add-time-entry-submit-button.png)
+![Save and Submit for Approval button](/attendance/add-time-entry-submit-button.png)
 
 ---
 
@@ -136,7 +136,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
     - Click the **Confirm** to save and submit the entry
     - Click the **Cancel** to Close the modal and return to the previous state.
 
-![Confirmation modal for existing time entry](../../src/images/attendance/existing-time-entry-modal.png)
+![Confirmation modal for existing time entry](/attendance/existing-time-entry-modal.png)
 
 ---
 
@@ -146,7 +146,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
   - Click the **Confirm** to save and submit the entry.
   - Click the **Cancel** to Close the modal and return to the previous state.
 
-![Confirmation modal for time entry on a leave day](../../src/images/attendance/leave-day-warning-modal.png)
+![Confirmation modal for time entry on a leave day](/attendance/leave-day-warning-modal.png)
 
 ---
 
@@ -156,7 +156,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
 
 - On the **My Timesheet** page, click on a day that has a logged time.
 
-![Select Logged Time entry](../../src/images/attendance/logged-entry.png)
+![Select Logged Time entry](/attendance/logged-entry.png)
 
 - This action opens the **Edit Time Entry** modal.
 
@@ -181,7 +181,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
 
 :::
 
-![Time adjustment in Edit Time Entry modal](../../src/images/attendance/edit-time-entry.png)
+![Time adjustment in Edit Time Entry modal](/attendance/edit-time-entry.png)
 
 ---
 
@@ -195,7 +195,7 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
 - If you have an ongoing time entry you are not allowed to edit that time entry.
   :::
 
-![Save and Submit for Approval button in Edit Time Entry modal](../../src/images/attendance/edit-time-entry-submit-button.png)
+![Save and Submit for Approval button in Edit Time Entry modal](/attendance/edit-time-entry-submit-button.png)
 
 ---
 
@@ -209,11 +209,11 @@ The **Manual Time Entry** feature in **Skapp** allows users to add or edit their
 
 1. Click on the **kebab menu** (three vertical dots) for the pending request.
 
-![Time Entry Request Section](../../src/images/attendance/my-time-entry-requests.png)
+![Time Entry Request Section](/attendance/my-time-entry-requests.png)
 
 2. Select the **Cancel** option from the dropdown menu.
 
-![Confirmation prompt for canceling request](../../src/images/attendance/cancel-time-requests.png)
+![Confirmation prompt for canceling request](/attendance/cancel-time-requests.png)
 
 :::warning[Important]
 

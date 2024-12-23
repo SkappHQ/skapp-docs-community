@@ -4,7 +4,7 @@ id: clock-in-clock-out
 sidebar_label: Clock-In & Clock Out
 sidebar_position: 1
 description: Learn how to use the Clock-In & Clock Out feature in Skapp to efficiently track working hours, manage breaks, and understand automatic clock-out for accurate time and attendance management.
-image: ../../src/images/thumbnails/attendance/clock-in-clock-out-thumbnail.png
+image: /thumbnails/attendance/clock-in-clock-out-thumbnail.png
 keywords:
   [
     Skapp Clock-In,
@@ -28,7 +28,7 @@ The Clock-In & Clock Out feature in **Skapp** enables users to track working hou
 
 The clock-in widget is prominently located on the top navigation bar of every page within **Skapp**. This ensures that users can easily start or stop work tracking at any time without navigating away from the current page.
 
-![Top navigation bar highlighting the clock-in widget](../../src/images/attendance/top-navigation-clock-in-widget.png)
+![Top navigation bar highlighting the clock-in widget](/attendance/top-navigation-clock-in-widget.png)
 
 ---
 
@@ -44,7 +44,7 @@ To begin tracking work hours:
    - A green blinking dot appears, indicating that time tracking is active.
    - The **Clock-In** button changes to a **Clock-Out** button.
 
-![Clock-In Button for Starting Work](../../src/images/attendance/clock-in-button.png)
+![Clock-In Button for Starting Work](/attendance/clock-in-button.png)
 
 #### If Leave Is Applied
 
@@ -58,7 +58,7 @@ Options:
 - **Clock in anyway**: Proceed with clocking in despite the scheduled leave.
 - **Close**: Cancel the action and return to the previous page.
 
-![Leave confirmation modal](../../src/images/attendance/leave-confirmation-modal.png)
+![Leave confirmation modal](/attendance/leave-confirmation-modal.png)
 
 ---
 
@@ -74,7 +74,7 @@ To pause work tracking during a break:
    - The green blinking dot changes to yellow, indicating a break.
    - The **Pause** button changes to a **Play** button.
 
-![Pause Button for Taking a Break](../../src/images/attendance/pause-button.png)
+![Pause Button for Taking a Break](/attendance/pause-button.png)
 
 ### Resuming Work
 
@@ -86,7 +86,7 @@ To resume tracking after a break:
    - The blinking dot changes back to green.
    - The **Play** button reverts to the **Pause** button.
 
-![Play Button for Resuming Work](../../src/images/attendance/play-button.png)
+![Play Button for Resuming Work](/attendance/play-button.png)
 
 #### Multiple Breaks
 
@@ -102,11 +102,11 @@ To stop tracking time at the end of the workday:
 
 1. Click the **Clock-Out** button on the top navigation bar.
 
-![Clock-Out Button for Ending Work](../../src/images/attendance/clock-out-button.png)
+![Clock-Out Button for Ending Work](/attendance/clock-out-button.png)
 
 2. Click the **Confirm** button on the **Clock out confirmation** modal.
 
-![Clock-Out Confirmation Modal](../../src/images/attendance/clock-out-confirmation.png)
+![Clock-Out Confirmation Modal](/attendance/clock-out-confirmation.png)
 
 ---
 

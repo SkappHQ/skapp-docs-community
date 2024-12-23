@@ -4,7 +4,7 @@ id: terminate-users
 sidebar_label: Terminate Users
 sidebar_position: 4
 description: Learn how to terminate user profiles in Skapp with this step-by-step guide, ensuring a smooth and compliant process for deactivating user accounts and managing employee offboarding.
-image: ../../src/images/thumbnails/people/add-users-thumbnail.png
+image: /thumbnails/people/add-users-thumbnail.png
 keywords:
   [
     Skapp Terminate Users,
@@ -37,11 +37,11 @@ This guide provides step-by-step instructions for terminating user profiles, ens
 
 1. Navigate to the **People Profile** through people directory.
 
-![Employee Profile Selection](../../src/images/people/employee-profile-selection.png)
+![Employee Profile Selection](/people/employee-profile-selection.png)
 
 2. Locate the **summary card** of the user you want to terminate.
 
-![User Summary Card](../../src/images/people/user-summary-card.png)
+![User Summary Card](/people/user-summary-card.png)
 
 ---
 
@@ -57,11 +57,11 @@ This guide provides step-by-step instructions for terminating user profiles, ens
 
 2. Click the kebab menu to display the dropdown options.
 
-![Kebab Menu on Summary Card](../../src/images/people/termination-kebab-menu.png)
+![Kebab Menu on Summary Card](/people/termination-kebab-menu.png)
 
 3. Select **Terminate** to initiate the termination process.
 
-![Termination Option in Kebab Menu](../../src/images/people/termination-user-option.png)
+![Termination Option in Kebab Menu](/people/termination-user-option.png)
 
 ---
 
@@ -75,7 +75,7 @@ This guide provides step-by-step instructions for terminating user profiles, ens
 
 - Click **Terminate** button in the confirmation modal to proceed with the termination.
 
-![Confirm-Termination](../../src/images/people/confirm-termination.png)
+![Confirm-Termination](/people/confirm-termination.png)
 
 Upon Termination,The system deactivates the user’s account.
 

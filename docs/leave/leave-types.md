@@ -4,7 +4,7 @@ id: leave-types
 sidebar_label: Leave Types
 sidebar_position: 6
 description: Learn how to define, customize, and manage various leave types in Skapp, including enabling attachments, setting carry-forward rules, and configuring leave duration preferences to align with your organization's policies.
-image: ../../src/images/thumbnails/leave/leave-types-thumbnail.png
+image: /thumbnails/leave/leave-types-thumbnail.png
 keywords:
   [
     Skapp Leave Types,
@@ -35,7 +35,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage leave types.
 
 :::
 
-![Leave Types Naviagtion](../../src/images/leave/add-leave-type-navigation.png)
+![Leave Types Naviagtion](/leave/add-leave-type-navigation.png)
 
 ---
 
@@ -45,7 +45,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage leave types.
 
 - On the **Leave Types** page, click the **Add Leave Type** button to open the **Add Leave Type** page.
 
-![Add Leave Type Button](../../src/images/leave/add-leave-type-button.png)
+![Add Leave Type Button](/leave/add-leave-type-button.png)
 
 ### Step 2: Enter Leave Type Details
 
@@ -81,7 +81,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage leave types.
   - **Half Day**: Leave can only be applied for half days.
   - **Both**: Leave can be applied for either full or half days.
 
-![Leave Types Mandatory](../../src/images/leave/add-leave-type-mandatory.png)
+![Leave Types Mandatory](/leave/add-leave-type-mandatory.png)
 
 ---
 
@@ -144,7 +144,7 @@ Check **[Leave Carry Foraward](leave-carry-forward.md)**
 - The **Save** button remains disabled until all mandatory fields are filled.
 - Click the **Save** button to create the leave type.
 
-![Save Leave Type](../../src/images/leave/add-leave-type-save.png)
+![Save Leave Type](/leave/add-leave-type-save.png)
 
 ---
 
@@ -155,7 +155,7 @@ Check **[Leave Carry Foraward](leave-carry-forward.md)**
 - On the **Leave Types** page, locate the leave type you wish to edit.
 - Click the **Edit** option under the **Action** column.
 
-![Edit Leave Type](../../src/images/leave/edit-leave-type-button.png)
+![Edit Leave Type](/leave/edit-leave-type-button.png)
 
 ### Step 2: Edit Leave Type Details
 
@@ -178,7 +178,7 @@ Check **[Leave Carry Foraward](leave-carry-forward.md)**
 
 - Toggle the **Active/Inactive** switch to **Inactive**.
 
-![Deactivate Leave Type](../../src/images/leave/deactivate-leave-type.png)
+![Deactivate Leave Type](/leave/deactivate-leave-type.png)
 
 - Click the **Save** button.
 

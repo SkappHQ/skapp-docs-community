@@ -4,7 +4,7 @@ id: leave-entitlements
 sidebar_label: Leave Entitlements
 sidebar_position: 4
 description: Learn how to manage leave entitlements in Skapp, including assigning leave allocations to employees, overriding entitlements, and configuring leave policies with ease using templates and bulk operations.
-image: ../../src/images/thumbnails/leave/leave-entitlements-thumbnail.png
+image: /thumbnails/leave/leave-entitlements-thumbnail.png
 keywords:
   [
     Skapp Leave Entitlements,
@@ -35,7 +35,7 @@ Users with the `Super Admin` & `Leave Admin` roles can manage leave entitlements
 
 :::
 
-![Leave Entitlements Navigation](../../src/images/leave/leave-entitlements-navigation.png)
+![Leave Entitlements Navigation](/leave/leave-entitlements-navigation.png)
 
 ---
 
@@ -45,19 +45,19 @@ Users with the `Super Admin` & `Leave Admin` roles can manage leave entitlements
 
 1. Select the year that you wish to add the entitlements.
 
-![Leave Entitlements Year](../../src/images/leave/leave-entitlements-select-year.png)
+![Leave Entitlements Year](/leave/leave-entitlements-select-year.png)
 
 ### Step 2: Click on Add Entitlments Button
 
 1. Click either the **Add Entitlements** button to open the **Add Entitlements Modal** page.
 
-![Leave Entitlements Button](../../src/images/leave/leave-entitlements-add-button.png)
+![Leave Entitlements Button](/leave/leave-entitlements-add-button.png)
 
 ### Step 3: Download the CSV Template
 
 1. Click the **Download CSV Template** button in the modal to download.
 
-![Leave Entitlements Temaplate](../../src/images/leave/leave-entitlements-template.png)
+![Leave Entitlements Temaplate](/leave/leave-entitlements-template.png)
 
 :::tip
 
@@ -73,7 +73,7 @@ The template includes specific columns to ensure proper formatting: **Employee I
 2. Drag and drop the completed CSV file into the designated area or click to select the file manually.
 3. Click **Upload Entitlements** after uploading the file.
 
-![Leave Entitlements Temaplate Upload](../../src/images/leave/leave-entitlments-upload-template.png)
+![Leave Entitlements Temaplate Upload](/leave/leave-entitlments-upload-template.png)
 
 :::warning[File Requirment]
 
@@ -93,7 +93,7 @@ The template includes specific columns to ensure proper formatting: **Employee I
 1. If records fail validations, an **Error Log (CSV)** is generated.
 2. Click the **Download Error Log** button to download the file.
 
-![Leave Entitlements Error Logo](../../src/images/leave/leave-entitlements-error-log.png)
+![Leave Entitlements Error Logo](/leave/leave-entitlements-error-log.png)
 
 - The error log contains detailed information in columns such as Employee ID, Employee Name, Work Email, Leave Type, Entitlement Value, and a descriptive Error Message.
 - After reviewing the errors, users are encouraged to correct the identified issues in their data and re-upload the file to ensure all records meet the validation criteria
@@ -114,11 +114,11 @@ The template includes specific columns to ensure proper formatting: **Employee I
 
 1. Click either the **Bulk Upload** button to open overidden condirmation page.
 
-![Leave Entitlements Bulk Upload](../../src/images/leave/leave-entitlements-bulk-upload.png)
+![Leave Entitlements Bulk Upload](/leave/leave-entitlements-bulk-upload.png)
 
 2. Click on the **Confirm and Proceed** button to open the upload modal.
 
-![Leave Entitlements Overridden Confirmation](../../src/images/leave/leave-entitlements-overridden-confirmation.png)
+![Leave Entitlements Overridden Confirmation](/leave/leave-entitlements-overridden-confirmation.png)
 
 ### Step 4: Download CSV Template
 

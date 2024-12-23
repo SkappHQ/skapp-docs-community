@@ -4,7 +4,7 @@ id: leave-management
 sidebar_label: Leave Management
 sidebar_position: 3
 description: Learn how to navigate the leave management in Skapp, including applying for leave, approving requests, customizing entitlements, and configuring advanced policies like carry-forward and auto-approval settings.
-image: ../../src/images/thumbnails/leave/leave-module-thumbnail.png
+image: /thumbnails/leave/leave-module-thumbnail.png
 keywords:
   [
     Skapp Leave Management,

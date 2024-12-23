@@ -4,7 +4,7 @@ id: time-attendance
 sidebar_label: Time & Attendance
 sidebar_position: 2
 description: Learn how to use the Time & Attendance module in Skapp, including clocking in and out, manual time entry, managing timesheet, and approving time requests to ensure accurate tracking and management of employee work hours.
-image: ../../src/images/thumbnails/attendance/time-attendance-thumbnail.png
+image: /thumbnails/attendance/time-attendance-thumbnail.png
 keywords:
   [
     Skapp Time & Attendance,

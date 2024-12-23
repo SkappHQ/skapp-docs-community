@@ -4,7 +4,7 @@ id: organization-setup
 sidebar_label: Organization Setup
 sidebar_position: 2
 description: Learn how to set up your organization in Skapp, including creating the Super Admin account and configuring organization details for a personalized and secure environment.
-image: ../../src/images/thumbnails/common/organization-setup-thumbnail.png
+image: /thumbnails/common/organization-setup-thumbnail.png
 keywords:
   [
     Skapp Organization Setup,
@@ -33,7 +33,7 @@ By completing these steps, you'll establish a secure and personalized environmen
 
 ### Step 1: Provide Super Admin Details
 
-![Super Admin Account Setup ](../../src/images/common/super-admin-account-setup.png)
+![Super Admin Account Setup ](/common/super-admin-account-setup.png)
 
 The Super Admin must fill out the following information:
 
@@ -76,7 +76,7 @@ The Super Admin must fill out the following information:
 
 ### Step 1: Enter Organization Information
 
-![Organization Setup ](../../src/images/common/organization-setup.png)
+![Organization Setup ](/common/organization-setup.png)
 
 Provide the necessary details about your organization:
 

@@ -4,7 +4,7 @@ id: credential-sharing
 sidebar_label: Credential Sharing
 sidebar_position: 3
 description: Learn how to securely share and reset user credentials in Skapp, including providing login details to new employees and resetting passwords for existing users.
-image: ../../src/images/thumbnails/people/add-users-thumbnail.png
+image: /thumbnails/people/add-users-thumbnail.png
 keywords:
   [
     Skapp Credential Sharing,
@@ -33,18 +33,18 @@ The **Credential Sharing** feature allows administrators to provide login detail
 - **Roles Required**: Super Admin or People Admin.
 - Navigate to the **Directory** via the **People** section in the navigation bar.
 
-![Navigate to Directory](../../src/images/people/directory-page.png)
+![Navigate to Directory](/people/directory-page.png)
 
 - Select an employee from the directory to view their profile.
 
-![Employee Profile Selection](../../src/images/people/employee-profile-selection.png)
+![Employee Profile Selection](/people/employee-profile-selection.png)
 
 ### Step 2: Access the System Permissions Tab
 
 - In the employee's profile, locate and click on the **System Permissions** section.
 - This will navigate to the **System Permissions Page** for the selected employee, displaying their roles and permissions.
 
-![System Permissions Section](../../src/images/people/system-permissions-navigation.png)
+![System Permissions Section](/people/system-permissions-navigation.png)
 
 ---
 
@@ -54,7 +54,7 @@ The **Credential Sharing** feature allows administrators to provide login detail
 
 - If the employee has not yet logged into the system and reset their password, the **Share Credentials** button is visible below the system roles on the **System Permissions Page**.
 
-![Share Credentials Button](../../src/images/people/share-credentials-button.png)
+![Share Credentials Button](/people/share-credentials-button.png)
 
 ### Step 2: Open the Share Credentials Modal
 
@@ -64,7 +64,7 @@ The **Credential Sharing** feature allows administrators to provide login detail
 
 - Click **Copy** to copy the message template.
 
-![Share Credentials Modal](../../src/images/people/share-credentials-modal.png)
+![Share Credentials Modal](/people/share-credentials-modal.png)
 
 - Share the credentials with the employee (e.g., via email or messaging).
 - Close the modal to return to the employee's profile.
@@ -81,7 +81,7 @@ The **Credential Sharing** feature allows administrators to provide login detail
 
 - Click the **Reset Password** button.
 
-![Reset Password Button](../../src/images/people/reset-password-button.png)
+![Reset Password Button](/people/reset-password-button.png)
 
 - The system generates a new temporary password for the employee.
 - The employee will be logged out immediately if they are currently logged into the system.
@@ -91,7 +91,7 @@ The **Credential Sharing** feature allows administrators to provide login detail
 - After resetting the password, the **Reset Password** button changes back to **Share Credentials**.
 - Click the **Share Credentials** button to open the modal.
 
-![Share Credentials Button](../../src/images/people/share-credentials-button.png)
+![Share Credentials Button](/people/share-credentials-button.png)
 
 ### Step 4: Share the New Credentials
 

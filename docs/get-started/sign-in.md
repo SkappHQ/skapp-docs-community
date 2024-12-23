@@ -4,7 +4,7 @@ id: sign-in
 sidebar_label: Sign-In
 sidebar_position: 3
 description: Learn how to securely sign in to Skapp, including first-time access and password reset procedures, ensuring a seamless login experience on the open-source business management platform.
-image: ../../src/images/thumbnails/common/sign-in-thumbnail.png
+image: /thumbnails/common/sign-in-thumbnail.png
 keywords:
   [
     Skapp Sign-In,
@@ -28,7 +28,7 @@ The **Sign-In** process in **Skapp** ensures secure access for all users, includ
 
 First-time users should receive temporary login credentials through super admin. Follow these steps to access the platform and sign-up to your account.
 
-![Signin Page](../../src/images/common/sign-in.png)
+![Signin Page](/common/sign-in.png)
 
 ### 1. Enter Temporary Credentials
 
@@ -44,7 +44,7 @@ First-time users should receive temporary login credentials through super admin.
 
 ## Resetting Your Password
 
-![Password Reset Page](../../src/images/common/reset-password.png)
+![Password Reset Page](/common/reset-password.png)
 
 ### 1. Password Requirements
 

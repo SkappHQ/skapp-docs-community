@@ -4,7 +4,7 @@ id: manage-time-requests
 sidebar_label: Manage Time Requests
 sidebar_position: 4
 description: Learn how to approve or decline time entry requests in Skapp, including managing manual time entries and edits, to ensure accurate attendance records for your team.
-image: ../../src/images/thumbnails/attendance/approve-decline-time-requests-thumbnail.png
+image: /thumbnails/attendance/approve-decline-time-requests-thumbnail.png
 keywords:
   [
     Skapp Time Entry Approval,
@@ -33,7 +33,7 @@ Supervisors can access pending time entry requests through the **All Timesheets*
 1. From the main navigation bar, select the **Timesheet** submenu.
 2. Click on **All Timesheets**.
 
-![Navigation path highlighting All Timesheet option](../../src/images/attendance/navigation-all-timesheets.png)
+![Navigation path highlighting All Timesheet option](/attendance/navigation-all-timesheets.png)
 
 ---
 
@@ -44,7 +44,7 @@ At the bottom of the **All Timesheets** page, supervisors can find the **Request
 - This section displays all pending time entry requests submitted by employees assigned to the supervisor.
 - Requests include both new manual time entries and edits to existing entries.
 
-![Requests Awaiting Approval section](../../src/images/attendance/requests-awaiting-approval.png)
+![Requests Awaiting Approval section](/attendance/requests-awaiting-approval.png)
 
 ---
 
@@ -55,7 +55,7 @@ At the bottom of the **All Timesheets** page, supervisors can find the **Request
   - Adjusted (new) times are highlighted in red for easy identification.
   - This helps supervisors quickly identify the changes made.
 
-![Edit Entries](../../src/images/attendance/edit-time-entry-requests.png)
+![Edit Entries](/attendance/edit-time-entry-requests.png)
 
 ### Manual Time Entry Requests
 
@@ -64,7 +64,7 @@ At the bottom of the **All Timesheets** page, supervisors can find the **Request
   - Adjusted (new) times are highlighted in red for easy identification.
   - This helps supervisors quickly identify the changes made.
 
-![Manual Time Entries](../../src/images/attendance/manual-time-entry-requests.png)
+![Manual Time Entries](/attendance/manual-time-entry-requests.png)
 
 ---
 
@@ -77,14 +77,14 @@ Supervisors can take action on requests directly from the table using the **Appr
 - Click the **Approve** button next to the request.
 - This updates the employee's time entry for the specified date with the requested changes.
 
-![Approve button in Requests Awaiting Approval section](../../src/images/attendance/approve-requests.png)
+![Approve button in Requests Awaiting Approval section](/attendance/approve-requests.png)
 
 ### Declining a Request
 
 - Click the **Decline** button next to the request.
 - This rejects the time entry request.
 
-![Decline button in Requests Awaiting Approval section](../../src/images/attendance/decline-requests.png)
+![Decline button in Requests Awaiting Approval section](/attendance/decline-requests.png)
 
 ---
 
@@ -95,7 +95,7 @@ For a comprehensive view of all time entry requests, supervisors can navigate to
 - Click the **View Full List** button within the **Requests Awaiting Approval** section.
 - This redirects to the **Time Entry Request** page, where supervisors can manage all requests in detail.
 
-![View Full List button](../../src/images/attendance/view-full-list-requests.png)
+![View Full List button](/attendance/view-full-list-requests.png)
 
 ---
 
@@ -106,7 +106,7 @@ For a comprehensive view of all time entry requests, supervisors can navigate to
 - Supervisors can select a single date or a custom date range.
 - Selected dates are highlighted for easy reference.
 
-![Time Entry Request page with default filters](../../src/images/attendance/time-entry-requests.png)
+![Time Entry Request page with default filters](/attendance/time-entry-requests.png)
 
 ---
 
@@ -134,4 +134,4 @@ Supervisors can filter requests to streamline their review process.
   - Click **Reset Filter** to clear all filters.
   - The table will display all requests, sorted by the most recent request date.
 
-![Filter options and Apply/Reset buttons](../../src/images/attendance/apply-reset-filters.png)
+![Filter options and Apply/Reset buttons](/attendance/apply-reset-filters.png)
