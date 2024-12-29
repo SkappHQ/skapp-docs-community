@@ -36,7 +36,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/rootcodelabs/Skapp-docs/tree/dev',
+          editUrl: 'https://github.com/SkappHQ/skapp-docs/tree/main',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
         },
@@ -64,7 +64,7 @@ const config: Config = {
           label: 'Tutorial',
         },
         {
-          href: 'https://github.com/rootcodelabs/Skapp-docs',
+          href: 'https://github.com/SkappHQ/skapp-docs',
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
