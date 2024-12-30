@@ -107,6 +107,6 @@ Must be one of the following:
 - Reference: [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0)
 
 ## Coding Style Guidelines
-- Follow [Docusourus Guides](https://docusaurus.io/docs/category/guides) and basic React and typescript practices.
+- Follow [Docusaurus Guides](https://docusaurus.io/docs/category/guides) and basic React and typescript practices.
 - Follow the [Atomic design](https://atomicdesign.bradfrost.com/).
 
