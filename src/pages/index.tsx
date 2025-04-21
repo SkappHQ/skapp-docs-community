@@ -4,6 +4,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import { useColorMode } from '@docusaurus/theme-common';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
+import Banner from '../../static/img/skapp-social-card.png'
 
 import styles from './index.module.css';
 import { MODULES, Module } from '../lib/constants/utils/moduleCardsData';
@@ -23,10 +24,14 @@ function HomepageHeader() {
             className={`button button--lg ${
               colorMode === 'dark' ? 'button--secondary' : 'button--primary'
             }`}
-            to="/docs/get-started/skapp-setup-guide"
+            to="/docs/introduction"
           >
             Get Started
           </Link>
+        </div>
+        <br/>
+        <div>
+          <img src={Banner} style={{width: '50%'}} alt={'banner'}/>
         </div>
       </div>
     </header>
@@ -90,23 +95,23 @@ export default function Home(): JSX.Element {
       description="Connecting and optimizing your business processes with ease"
     >
       <HomepageHeader />
-      <main>
-        <section className="module-cards container">
-          <div className="row padding-horiz--md">
-            {MODULES.map((module, key) => (
-              <div
-                className={clsx(
-                  'col col--4 margin-bottom--md',
-                  styles.cardContainer
-                )}
-                key={key}
-              >
-                <ModuleCard {...module} />
-              </div>
-            ))}
-          </div>
-        </section>
-      </main>
+      {/*<main>*/}
+      {/*  <section className="module-cards container">*/}
+      {/*    <div className="row padding-horiz--md">*/}
+      {/*      {MODULES.map((module, key) => (*/}
+      {/*        <div*/}
+      {/*          className={clsx(*/}
+      {/*            'col col--4 margin-bottom--md',*/}
+      {/*            styles.cardContainer*/}
+      {/*          )}*/}
+      {/*          key={key}*/}
+      {/*        >*/}
+      {/*          <ModuleCard {...module} />*/}
+      {/*        </div>*/}
+      {/*      ))}*/}
+      {/*    </div>*/}
+      {/*  </section>*/}
+      {/*</main>*/}
     </Layout>
   );
 }
