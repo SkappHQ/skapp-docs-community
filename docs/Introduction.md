@@ -1,6 +1,6 @@
 ---
 title: Introduction
-id: Introduction
+id: introduction
 sidebar_label: Introduction 
 sidebar_position: 1
 ---

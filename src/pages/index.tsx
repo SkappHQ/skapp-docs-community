@@ -24,7 +24,7 @@ function HomepageHeader() {
             className={`button button--lg ${
               colorMode === 'dark' ? 'button--secondary' : 'button--primary'
             }`}
-            to="/docs/introduction"
+            to={"docs/introduction"}
           >
             Get Started
           </Link>
