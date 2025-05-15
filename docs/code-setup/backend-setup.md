@@ -26,14 +26,17 @@ This is just about having the basic java setup in your computer, so if it is dif
 
 ### 2. Cloning the repo and setting up the environment file.
 
-#### 2.1 Clone the backend repo.
-You can clone the backend code from community repo - <b>https://github.com/SkappHQ/skapp-be</b>.
+#### 2.1 Clone the repo.
+Skapp community is a monolithic repo where it contains both backend and frontend codebases in the same repository. 
+You can clone the code from community repo - <b>https://github.com/SkappHQ/skapp</b>.
+
+It has two main folders - frontend and backend. You can either use the same IDE or two different IDEs to run the backend and frontend separately following the next steps. 
 
 #### 2.2 Open the project in your favorite IDE.
 Usually our backend developers use IntelliJ IDEA so it is what we are going to use in this tutorial as well.
 
 #### 2.3 Link environment file.
-The env file is located in root level of the project folder, and it is named as .env.local .
+The env file is located in root level of the backend folder, and it is named as .env.local .
 
 If you are coming from a java background you already know how to link the env file using the IntelliJ Edit Configurations setting.
 If so, you can do it by your own, and then you can directly jump into the next step <b>[Frontend Setup](./frontend-setup)</b>. But if this is something new for you, 

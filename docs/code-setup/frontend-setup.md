@@ -26,22 +26,22 @@ This is just about having the basic javascript runtime environment in your compu
 
 ### 2. Cloning the repo and installing dependencies.
 
-#### 2.1 Clone the frontend repo.
-You can clone the frontend code from community repo - <b>https://github.com/SkappHQ/skapp-fe</b>.
+#### 2.1 Clone the repo.
+If you have already setup the backend then you can skip this step since you have already cloned the repo which is a monolithic repository which contain both frontend and backend code. But if you need to run the frontend in a totally different folder location you can clone the repo again - <b> https://github.com/SkappHQ/skapp</b>.
 
 #### 2.2 Open the project in your favorite IDE.
 Usually for frontend development, there are lot of IDEs used in the industry, 
-but we are majorly using <b>[Webstorm](https://www.jetbrains.com/webstorm/)</b> and <b>[Visual Studio Code](https://code.visualstudio.com/)</b> as our primary IDEs for frontend development.
+but we are majorly using <b>[Visual Studio Code](https://code.visualstudio.com/)</b> and <b>[Webstorm](https://www.jetbrains.com/webstorm/)</b> as our primary IDEs for frontend development.
 
 #### 2.3 Install the dependencies.
-Now you should install the dependencies by executing <b>`npm install`</b> from your root folder.
+Go inside the frontend folder and install the dependencies by executing <b>`npm install`</b> from your root folder.
 
 
 <br/>
 
 ### 3. Updating the env file with desired values.
 
-You should have the below env.local file within your root directory and that is what we are using to run the frontend service in development mode.
+You should have the example.env file located in the root level of the frontend folder with following content.
 
 ```
 NEXT_PUBLIC_API_URL="<api-url>"
@@ -49,11 +49,13 @@ NEXTAUTH_SECRET="<random-string>"
 NEXTAUTH_URL=<fe-base-url>
 ```
 
-There are few values we have to set under your setup. So let's go through them one by one.
+First create a new file with name <b>.env</b> and copy paste the content from the example.env file.
+
+Then there are few values we have to set under your setup. So let's go through them one by one.
 
 1. <b>NEXT_PUBLIC_API_URL</b> <br/>
-This is the url which will use your frontend service to point to the running backend service, 
-and most of the cases if you haven't changed any backend configurations, then this value would be http://localhost:8008/v1.
+This is the url which will use your frontend service to connect with the running backend service, 
+and most of the cases if you haven't changed any backend configurations, then this value would be http://localhost:8008 which you can confirm by loading the swagger UI as in the backend setup guide.
 2. <b>NEXTAUTH_SECRET</b> <br/>
 This is a random string used to sign and encrypt JWTs and cookies. Typically, a random string with 32+ characters.
 3. <b>NEXTAUTH_URL</b> <br/>
